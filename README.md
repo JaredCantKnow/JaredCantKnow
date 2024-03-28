@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JaredCantKnow
+- 👀 I’m interested in learning more about python and offensive cyber security. I want to become involded in the bug bounty community.
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on developing python tools that will help me discover and exploit vulnerabilities. 
+- 📫 How to reach me E-mail: jared.a.cox33@gmail.com
